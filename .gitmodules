@@ -1,0 +1,3 @@
+[submodule "optstoic-python"]
+	path = optstoic-python
+	url = https://github.com/CatalinaGuerraC/optstoic-python
