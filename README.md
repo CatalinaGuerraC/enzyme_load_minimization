@@ -38,7 +38,13 @@ The reason for the existance of an optstoic-python submodule is because the orig
 
 ## Usage
 
-Open `optstoic_101.ipynb`. It contains all the utility functions for you to use optStoic in the original way (MinFlux) and the Enzyme Load Minimization approach with different case studies.
+Activate python enviroment previously created and open jupyter notebook
+ ```bash
+    source optstoic_env/bin/activate
+    jupyter notebook
+```
+
+`optstoic_101.ipynb` contains all the utility functions for you to use optStoic in the original way (MinFlux) and the Enzyme Load Minimization approach with different case studies.
 
 Main utility function:
 - load reaction database (two load functions for every database: universal_db and ecolicore)
