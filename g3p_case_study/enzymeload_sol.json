@@ -1,0 +1,46 @@
+{
+    "1": {
+        "modelstat": "Optimal",
+        "num_reaction": 9,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_g3p": 2.0,
+            "EX_glc": -1.0,
+            "R00299": 1.0,
+            "R00756": 1.0,
+            "R00771": 1.0,
+            "R01015": -1.0,
+            "R01068": 1.0
+        },
+        "solvestat": null,
+        "time": 0.09160971641540527,
+        "total_flux_no_exchange": 5.0
+    },
+    "2": {
+        "modelstat": "Optimal",
+        "num_reaction": 17,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_co2": 2.0,
+            "EX_g3p": 1.0,
+            "EX_glc": -2.0,
+            "EX_h2o": -2.0,
+            "EX_hplus": 4.0,
+            "EX_nadp": -4.0,
+            "EX_nadph": 4.0,
+            "EX_s7p": 1.0,
+            "R00299": 2.0,
+            "R00835": 2.0,
+            "R01056": -1.0,
+            "R01528": 2.0,
+            "R01529": 1.0,
+            "R01641": -1.0,
+            "R02035": 2.0
+        },
+        "solvestat": null,
+        "time": 0.11916399002075195,
+        "total_flux_no_exchange": 11.0
+    }
+}

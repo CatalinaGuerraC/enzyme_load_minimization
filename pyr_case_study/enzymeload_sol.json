@@ -1,0 +1,67 @@
+{
+    "1": {
+        "modelstat": "Optimal",
+        "num_reaction": 9,
+        "pathway": {
+            "EX_co2": 1.0,
+            "EX_hplus": 1.0,
+            "EX_mal": -1.0,
+            "EX_nad": -1.0,
+            "EX_nadh": 1.0,
+            "EX_pyr": 1.0,
+            "R00200": -1.0,
+            "R00341": 1.0,
+            "R00342": 1.0
+        },
+        "solvestat": null,
+        "time": 0.04872274398803711,
+        "total_flux_no_exchange": 3.0
+    },
+    "2": {
+        "modelstat": "Optimal",
+        "num_reaction": 6,
+        "pathway": {
+            "EX_hplus": 1.0,
+            "EX_lac": -1.0,
+            "EX_nad": -1.0,
+            "EX_nadh": 1.0,
+            "EX_pyr": 1.0,
+            "R00704": 1.0
+        },
+        "solvestat": null,
+        "time": 0.031013965606689453,
+        "total_flux_no_exchange": 1.0
+    },
+    "3": {
+        "modelstat": "Optimal",
+        "num_reaction": 7,
+        "pathway": {
+            "EX_co2": 1.0,
+            "EX_hplus": 1.0,
+            "EX_mal": -1.0,
+            "EX_nad": -1.0,
+            "EX_nadh": 1.0,
+            "EX_pyr": 1.0,
+            "R00214": 1.0
+        },
+        "solvestat": null,
+        "time": 0.0309908390045166,
+        "total_flux_no_exchange": 1.0
+    },
+    "4": {
+        "modelstat": "Optimal",
+        "num_reaction": 7,
+        "pathway": {
+            "EX_co2": 1.0,
+            "EX_hplus": 1.0,
+            "EX_mal": -1.0,
+            "EX_nadp": -1.0,
+            "EX_nadph": 1.0,
+            "EX_pyr": 1.0,
+            "R00216": 1.0
+        },
+        "solvestat": null,
+        "time": 0.03058791160583496,
+        "total_flux_no_exchange": 1.0
+    }
+}

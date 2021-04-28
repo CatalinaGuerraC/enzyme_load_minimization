@@ -1,0 +1,17 @@
+{
+    "1": {
+        "modelstat": "Optimal",
+        "num_reaction": 6,
+        "pathway": {
+            "EX_hplus": 1.0,
+            "EX_lac": -1.0,
+            "EX_nad": -1.0,
+            "EX_nadh": 1.0,
+            "EX_pyr": 1.0,
+            "R00704": 1.0
+        },
+        "solvestat": null,
+        "time": 0.043297529220581055,
+        "total_flux_no_exchange": 1.0
+    }
+}
