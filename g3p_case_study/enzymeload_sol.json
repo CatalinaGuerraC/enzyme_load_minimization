@@ -14,7 +14,7 @@
             "R01068": 1.0
         },
         "solvestat": null,
-        "time": 0.09160971641540527,
+        "time": 0.05713510513305664,
         "total_flux_no_exchange": 5.0
     },
     "2": {
@@ -40,7 +40,7 @@
             "R02035": 2.0
         },
         "solvestat": null,
-        "time": 0.11916399002075195,
+        "time": 0.039795875549316406,
         "total_flux_no_exchange": 11.0
     }
 }
