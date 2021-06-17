@@ -1,0 +1,92 @@
+{
+    "1": {
+        "modelstat": "Optimal",
+        "num_reaction": 9,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_g3p": 2.0,
+            "EX_glc": -1.0,
+            "R00307": 1.0,
+            "R00866": 1.0,
+            "R01015": -1.0,
+            "R01070": 1.0,
+            "R02071": 1.0
+        },
+        "solvestat": null,
+        "time": 4.456551551818848,
+        "total_flux_no_exchange": 5.0
+    },
+    "2": {
+        "modelstat": "Optimal",
+        "num_reaction": 9,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_g3p": 2.0,
+            "EX_glc": -1.0,
+            "R00307": 1.0,
+            "R00866": 1.0,
+            "R01015": -1.0,
+            "R01059": 1.0,
+            "R02568": 1.0
+        },
+        "solvestat": null,
+        "time": 9.682019472122192,
+        "total_flux_no_exchange": 5.0
+    },
+    "3": {
+        "modelstat": "Optimal",
+        "num_reaction": 9,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_g3p": 2.0,
+            "EX_glc": -1.0,
+            "R00307": 1.0,
+            "R00867": 1.0,
+            "R01015": -1.0,
+            "R01070": 1.0,
+            "R04779": 1.0
+        },
+        "solvestat": null,
+        "time": 4.503814458847046,
+        "total_flux_no_exchange": 5.0
+    },
+    "4": {
+        "modelstat": "Optimal",
+        "num_reaction": 9,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_g3p": 2.0,
+            "EX_glc": -1.0,
+            "R00307": 1.0,
+            "R00756": 1.0,
+            "R00760": 1.0,
+            "R01015": -1.0,
+            "R01068": 1.0
+        },
+        "solvestat": null,
+        "time": 4.443875312805176,
+        "total_flux_no_exchange": 5.0
+    },
+    "5": {
+        "modelstat": "Optimal",
+        "num_reaction": 9,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_g3p": 2.0,
+            "EX_glc": -1.0,
+            "R00299": 1.0,
+            "R00756": 1.0,
+            "R00771": 1.0,
+            "R01015": -1.0,
+            "R01068": 1.0
+        },
+        "solvestat": null,
+        "time": 7.709728717803955,
+        "total_flux_no_exchange": 5.0
+    }
+}

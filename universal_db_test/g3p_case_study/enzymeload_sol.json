@@ -1,0 +1,111 @@
+{
+    "1": {
+        "modelstat": "Optimal",
+        "num_reaction": 12,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_g3p": 2.0,
+            "EX_glc": -1.0,
+            "R00756": 1.0,
+            "R00771": 1.0,
+            "R00850": 1.0,
+            "R01015": -1.0,
+            "R01068": 1.0,
+            "R01182": 1.0,
+            "R01193": 1.0,
+            "R03331": -1.0
+        },
+        "solvestat": null,
+        "time": 135.50964736938477,
+        "total_flux_no_exchange": 8.0
+    },
+    "2": {
+        "modelstat": "Optimal",
+        "num_reaction": 11,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_g3p": 2.0,
+            "EX_glc": -1.0,
+            "R00141": 1.0,
+            "R00756": 1.0,
+            "R00771": 1.0,
+            "R01015": -1.0,
+            "R01068": 1.0,
+            "R08514": 1.0,
+            "R08639": 1.0
+        },
+        "solvestat": null,
+        "time": 21.22710418701172,
+        "total_flux_no_exchange": 7.0
+    },
+    "3": {
+        "modelstat": "Optimal",
+        "num_reaction": 11,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_g3p": 2.0,
+            "EX_glc": -1.0,
+            "R00141": 1.0,
+            "R00959": 1.0,
+            "R01015": -1.0,
+            "R01070": 1.0,
+            "R02740": 1.0,
+            "R04779": 1.0,
+            "R08514": 1.0
+        },
+        "solvestat": null,
+        "time": 46.09213471412659,
+        "total_flux_no_exchange": 7.0
+    },
+    "4": {
+        "modelstat": "Optimal",
+        "num_reaction": 15,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_g3p": 2.0,
+            "EX_glc": -1.0,
+            "R00756": 1.0,
+            "R00771": 1.0,
+            "R00796": -1.0,
+            "R00845": 1.0,
+            "R00849": -1.0,
+            "R00850": 1.0,
+            "R01068": 1.0,
+            "R01182": 1.0,
+            "R01193": 1.0,
+            "R03331": -1.0,
+            "R09497": -1.0
+        },
+        "solvestat": null,
+        "time": 76.57427597045898,
+        "total_flux_no_exchange": 11.0
+    },
+    "5": {
+        "modelstat": "Optimal",
+        "num_reaction": 15,
+        "pathway": {
+            "EX_adp": 2.0,
+            "EX_atp": -2.0,
+            "EX_g3p": 2.0,
+            "EX_glc": -1.0,
+            "R00200": -1.0,
+            "R00756": 1.0,
+            "R00771": 1.0,
+            "R00845": 1.0,
+            "R00850": 1.0,
+            "R01012": -1.0,
+            "R01039": -1.0,
+            "R01068": 1.0,
+            "R01182": 2.0,
+            "R01193": 2.0,
+            "R03331": -2.0
+        },
+        "solvestat": null,
+        "time": 94.77376508712769,
+        "total_flux_no_exchange": 14.0
+    }
+}

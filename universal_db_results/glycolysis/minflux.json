@@ -1,0 +1,54 @@
+{
+    "1": {
+        "modelstat": "Optimal",
+        "num_reaction": 17,
+        "pathway": {
+            "EX_adp": -1.0,
+            "EX_atp": 1.0,
+            "EX_glc": -1.0,
+            "EX_h2o": 1.0,
+            "EX_hplus": 2.0,
+            "EX_nad": -2.0,
+            "EX_nadh": 2.0,
+            "EX_phosphate": -1.0,
+            "EX_pyruvate": 2.0,
+            "R00200": -1.0,
+            "R00300": 1.0,
+            "R00658": 1.0,
+            "R01519": 1.0,
+            "R01538": 1.0,
+            "R01748": -1.0,
+            "R01752": 1.0,
+            "R08570": 1.0
+        },
+        "solvestat": null,
+        "time": 3.7237014770507812,
+        "total_flux_no_exchange": 8.0
+    },
+    "2": {
+        "modelstat": "Optimal",
+        "num_reaction": 17,
+        "pathway": {
+            "EX_adp": -1.0,
+            "EX_atp": 1.0,
+            "EX_glc": -1.0,
+            "EX_h2o": 1.0,
+            "EX_hplus": 2.0,
+            "EX_nadp": -2.0,
+            "EX_nadph": 2.0,
+            "EX_phosphate": -1.0,
+            "EX_pyruvate": 2.0,
+            "R00200": -1.0,
+            "R00658": 1.0,
+            "R01519": 1.0,
+            "R01538": 1.0,
+            "R01748": -1.0,
+            "R07147": 1.0,
+            "R08570": 1.0,
+            "R10615": 1.0
+        },
+        "solvestat": null,
+        "time": 3.5605621337890625,
+        "total_flux_no_exchange": 8.0
+    }
+}
